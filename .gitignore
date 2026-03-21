@@ -1,0 +1,26 @@
+# Ignore batch files
+*.bat
+
+# Ignore common image formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+
+# Ignore common video formats
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.mpeg
+*.mpg
+
+# Ignore files prefixed with "_" (any type)
+_*.*
+
+# Force include welcome.gif no matter what
+!welcome.gif
